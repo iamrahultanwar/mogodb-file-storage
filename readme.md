@@ -26,4 +26,4 @@ node app.js
 
 ### Preview
 
-<a href="https://ibb.co/pK6qQSf"><img src="https://i.ibb.co/ZgR9S0B/Screenshot-2021-11-15-at-11-05-38-PM.png" alt="Screenshot-2021-11-15-at-11-05-38-PM" border="0"></a>
+<a href="https://ibb.co/pK6qQSf"><img src="https://i.ibb.co/fNVJ9sk/Screenshot-2021-11-15-at-11-05-38-PM.png" alt="Screenshot-2021-11-15-at-11-05-38-PM" border="0"></a>
